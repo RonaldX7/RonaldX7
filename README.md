@@ -26,7 +26,7 @@ I am a Systems Engineer student. My expertise includes programming languages suc
 Anything related to software development, Java programming, or database management. I am always happy to help if it's within my expertise!
 
 ### 🎨 Outside tech:
-I enjoy exploring creative outlets such as Swiming, listening to music, and spending time outdoors to recharge.
+I enjoy exploring creative outlets such as Swimming, listening to music, and spending time outdoors to recharge.
 
 #### 📫 Reach out to me at: <a href="mailto:ronaldjair0705@gmail.com">ronaldjair0705@gmail.com</a>
 
