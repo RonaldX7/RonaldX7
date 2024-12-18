@@ -3,7 +3,7 @@
 ### <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <br>
-I am a System Engineer student. My expertise includes programming languages such as Java, Python, SQL, JavaScript, HTML, and CSS. I am passionate about leveraging technology to solve real-world problems and continuously strive to learn and innovate.
+I am a Systems Engineer student. My expertise includes programming languages such as Java, Python, SQL, JavaScript, HTML, and CSS. I am passionate about leveraging technology to solve real-world problems and continuously strive to learn and innovate.
 
 ### 🌱 Currently learning:
 
